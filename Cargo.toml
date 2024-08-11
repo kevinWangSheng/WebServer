@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Kevin ltwoggbuty2mh@gmail.com"]
 edition = "2021"
 license = "MIT"
+description = "A simple web server that use tcp to deal request and return smoe simple content"
 
 [[bin]]
 name = "WebServer"
