@@ -1,0 +1,13 @@
+[package]
+name = "WebServer-kevin"
+version = "0.1.0"
+authors = ["Kevin ltwoggbuty2mh@gmail.com"]
+edition = "2021"
+license = "MIT"
+
+[[bin]]
+name = "WebServer"
+path = "src/bin/main.rs"
+
+[dependencies]
+futures = { version = "0.3.30", features = ["thread-pool"] }
