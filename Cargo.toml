@@ -1,5 +1,5 @@
 [package]
-name = "WebServer-kevin"
+name = "WebServer_kevin"
 version = "0.1.0"
 authors = ["Kevin ltwoggbuty2mh@gmail.com"]
 edition = "2021"
